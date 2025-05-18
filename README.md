@@ -7,7 +7,7 @@ This repository contains my work from the **Deloitte Australia Cybersecurity Vir
 ## 📌 Overview
 
 **Client:** Daikibo Industrials  
-**Situation:** A news outlet leaked confidential data about Daikibo. Around the same time, a production line outage raised concerns about the integrity of their internal systems. The client suspected that their **telemetry dashboard**,used to monitor factory operations, may have been compromised by an external attacker.
+**Situation:** A news outlet leaked confidential data about Daikibo. Around the same time, a production line outage raised concerns about the integrity of their internal systems. The client suspected that their **telemetry dashboard**, used to monitor factory operations, may have been compromised by an external attacker.
 
 ---
 
