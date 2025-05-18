@@ -65,7 +65,7 @@ After the analysis, I compiled a professional advisory report for Daikibo. The r
 
 **Temple Nnanna Idam-Nkama**  
 Cybersecurity Analyst | Tech Enthusiast
-🔗 [LinkedIn Profile](www.linkedin.com/in/temple-nnanna-idam-nkama-isc2-cc-gmnse-9b5a78327)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/temple-nnanna-idam-nkama-isc2-cc-gmnse-9b5a78327/)
 
 ---
 
